@@ -1,0 +1,17 @@
+{
+    "Aldi Akademie":{
+        "Anzahl":5,
+        "W\u00fcnsche":[
+        ]
+    },
+    "ETH Z\u00fcrich":{
+        "Anzahl":1,
+        "W\u00fcnsche":[30,24,23,22,21,11,13
+        ]
+    },
+    "Kellogs Kolleg":{
+        "Anzahl":10,
+        "W\u00fcnsche":[22,24,1,2,9,36
+        ]
+    }
+}
