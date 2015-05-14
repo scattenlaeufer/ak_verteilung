@@ -7,3 +7,6 @@
 * problems.txt zeigt Kollisionen
 * collisions.log und participation.log enthält detailliertere Info über Verteilung
 * debug.log zeigt auch irgendwas an, ich hab aber vergessen was
+
+## Fragen
+Kontakt [@PlantProgrammer](https://twitter.com/PlantProgrammer)
