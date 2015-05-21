@@ -2,7 +2,7 @@ __author__ = 'Simon'
 
 import data
 import timeslots
-NO_SLOTS = 8
+NO_SLOTS = 7
 NO_ROOMS = 6
 
 
@@ -27,9 +27,9 @@ class Main(object):
         """
         try:
             if type == "json":
-                self.data.read_json("aks", "aks.json")
-                self.data.read_json("personen", "personen.json")
-                self.data.read_json("unis", "unis.json")
+                self.data.read_json("aks", "aks_test.json")
+                self.data.read_json("personen", "personen_test.json")
+                self.data.read_json("unis", "unis_test.json")
             elif type == "txt":
                 self.data.read_txt("aks", "aks.json")
                 self.data.read_txt("personen", "personen.json")
